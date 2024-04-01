@@ -1,24 +1,40 @@
 Hacking -gaining unauthorized access without written concern
+
 Ethical hacking -gaining unauthorized access with written concern
+
+carrer opportunities
+    offensive-hackers,ethical hackers,system hackers,penetration,iot
+    defensive-security operations center(soc) analyst,malware analyst
+
 Networks
     The wired or wireless connection of two or more computers for the purpose of sharing data and resources
+
 Vulnerability
+
 Hashcat
     password cracking tool
+
 Bruteforce
     attackers using excessively forceful attempts to gain access to user accounts.
+
 RAT
     Remote Access Trojans
+
 CyberSecurity
      secure the fies,resources,networks etc.
+
 Security
+
 SafeGuard
+
 Types of control
     logical control
     administrative control
     physical control
+
 port scanning
     to find weak points
+
 osi layer
     Physical Layer
     Data Link Layer
@@ -27,18 +43,25 @@ osi layer
     Session Layer
     Presentation Layer
     Application Layer
+
 protocols(TCP UDP)
     set of rules
+
 TCP-65535 ports
 UDP-65535 ports
 https-port number 443(safe)
 http-port number 80(unsafe)
 http vs https
+
 Blockchain security
+
 exploit
+
 Sql injection
+
 phishing
     when attackers send scam emails (or text messages) that contain links to malicious websites
+
 DNS
 IP address
 cloud
