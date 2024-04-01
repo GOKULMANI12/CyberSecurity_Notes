@@ -10,18 +10,15 @@ Networks
     The wired or wireless connection of two or more computers for the purpose of sharing data and resources
 
 Vulnerability
+    weakness
 
-Hashcat
-    password cracking tool
+Hashcat -password cracking tool
 
-Bruteforce
-    attackers using excessively forceful attempts to gain access to user accounts.
+Bruteforce -attackers using excessively forceful attempts to gain access to user accounts.
 
-RAT
-    Remote Access Trojans
+RAT -Remote Access Trojans
 
-CyberSecurity
-     secure the fies,resources,networks etc.
+CyberSecurity -secure the fies,resources,networks etc.
 
 Security
 
@@ -59,8 +56,7 @@ exploit
 
 Sql injection
 
-phishing
-    when attackers send scam emails (or text messages) that contain links to malicious websites
+phishing - when attackers send scam emails (or text messages) that contain links to malicious websites
 
 DNS
 IP address
@@ -100,6 +96,17 @@ Authentication-verify the someones identity
        
 Authorization(Acces Control)-permission
 
+Event-Any observable occurence in a network or system
+
+Exploit  -A particular attack. It is named this way because these attacks exploit system vulnerabilities
+
+Incident -Affects any one of a CIA
+
+Intrusion -A Security event
+
+Threat -potential to damage
+
+Zero Day -A previously unknown system vulnerability with the potential of exploitation without risk of detection or prevention 
 
 
 
