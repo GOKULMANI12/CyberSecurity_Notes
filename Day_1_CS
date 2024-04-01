@@ -29,5 +29,23 @@ protocols(TCP UDP)
     set of rules
 TCP-65535 ports
 UDP-65535 ports
-https-port number 443
-http-port number 80
+https-port number 443(safe)
+http-port number 80(unsafe)
+http vs https
+Blockchain security
+exploit
+Sql injection
+phishing
+    when attackers send scam emails (or text messages) that contain links to malicious websites
+DNS
+IP address
+cloud
+cryptography
+ARB poisoning
+Spoofing
+metasploit
+Backdoor
+
+
+
+
