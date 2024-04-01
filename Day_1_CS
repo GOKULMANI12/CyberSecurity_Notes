@@ -106,7 +106,17 @@ Intrusion -A Security event
 
 Threat -potential to damage
 
-Zero Day -A previously unknown system vulnerability with the potential of exploitation without risk of detection or prevention 
+Zero Day -A previously unknown system vulnerability with the potential of exploitation without risk of detection or prevention
+
+Ipv4-32bit -0-9
+192.168.1.1/24
+11000000.10101000.00000001.00000001
+
+Ipv6-128b hex decimal 0-9 A-F
+FFEE:AAAA:AAAA:AAAA:FFEE:AAAA:AAAA:AAAA
+16*8
+
+1270.0.1 -LOCALIP
 
 
 
