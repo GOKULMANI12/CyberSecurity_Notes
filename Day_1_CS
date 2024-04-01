@@ -5,3 +5,29 @@ Hashcat
     password cracking tool
 Bruteforce
     attackers using excessively forceful attempts to gain access to user accounts.
+RAT
+    Remote Access Trojans
+CyberSecurity
+     secure the fies,resources,networks etc.
+Security
+SafeGuard
+Types of control
+    logical control
+    administrative control
+    physical control
+port scanning
+    to find weak points
+osi layer
+    Physical Layer
+    Data Link Layer
+    Network Layer
+    Transport Layer
+    Session Layer
+    Presentation Layer
+    Application Layer
+protocols(TCP UDP)
+    set of rules
+TCP-65535 ports
+UDP-65535 ports
+https-port number 443
+http-port number 80
