@@ -3,3 +3,44 @@ simple way to hack a system
 start cmd
 start whatspp
 **we want to save as sh in linux and all files in windows
+
+ping command
+    ping 172.1.44.44 -c 4
+    after c it is the count that how many packets wants to send and receive
+
+gokulmani@ZIO:~$ ping 172.1.42.44 -c 4
+PING 172.1.42.44 (172.1.42.44) 56(84) bytes of data.
+64 bytes from 172.1.42.44: icmp_seq=1 ttl=64 time=183 ms
+64 bytes from 172.1.42.44: icmp_seq=2 ttl=64 time=6.13 ms
+64 bytes from 172.1.42.44: icmp_seq=3 ttl=64 time=9.39 ms
+64 bytes from 172.1.42.44: icmp_seq=4 ttl=64 time=5.67 ms
+
+--- 172.1.42.44 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 5.672/51.039/182.967/76.181 ms
+
+gokulmani@ZIO:~$ ping --help
+
+to find the server ip address
+
+gokulmani@ZIO:~$ ping mkce.ac.in -c 10
+PING mkce.ac.in (172.67.214.224) 56(84) bytes of data.
+
+--- mkce.ac.in ping statistics ---
+10 packets transmitted, 10 received, 100% packet loss, time 9223ms
+
+
+NETWORKING
+cable-
+same devices---cross over
+different devices---straight through
+two router---coaxial cable
+
+NIC - Network Interface Card : This card helps to use wifi.
+
+
+
+
+
+
+
