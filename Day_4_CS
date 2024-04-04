@@ -21,4 +21,15 @@ VPN act like a tunnel and make our connection encrypted.
 Encryption -> clear text to cipher text
 Decryption -> cipher text to clear text
 
+Symmetric Encryption - Single Key
+Asymmetric Encryption - Public/Private Key
+
 wireshark --
+
+**********Three way handshaking
+    syn 
+    syn-ack
+    ack
+
+*********TLS handshake
+
