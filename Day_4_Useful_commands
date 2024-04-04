@@ -1,0 +1,52 @@
+where calc----it is used to whether the application is available or not
+  ┌──(gokulmani㉿GOKULMANI)-[~]
+  └─$ where firefox
+/usr/bin/firefox
+/bin/firefox
+
+cd../../../../../../----it is used to navigate the file faster
+
+cd click tab----used to navigate to the file faster
+
+>--used to create file and give text
+echo "hello" > gokul
+
+>>--used to edit the file(append)
+echo "hello" >> gokulmani
+
+more--it is used to read a file in a cmd
+
+cat---it is used to read file inn linux or ps
+
+kate gokulmani--kate is an application name where you want to open gokulmani is an filename
+
+mv-- fielname folder name
+
+┌──(gokulmani㉿GOKULMANI)-[~]
+└─$ mkdir gokf
+                                                                                                              
+┌──(gokulmani㉿GOKULMANI)-[~]
+└─$ mv gokulmani gokf
+                                                                                                              
+┌──(gokulmani㉿GOKULMANI)-[~]
+└─$ ls gokf
+gokulmani
+                                                                                                              
+┌──(gokulmani㉿GOKULMANI)-[~]
+└─$ 
+
+
+cp --filename foldername
+
+filesharing--
+to start server
+  to run server python -m http.server 80
+
+rm--is used to remove the file
+
+
+
+
+
+
+
