@@ -46,6 +46,18 @@ rm--is used to remove the file
 
 
 
+commands for didn't work wifi module
+sudo nmcli networking on
+service NetworkManager start
+
+import file on kali
+cat /etc/apt/sources.list
+
+
+
+
+
+
 
 
 
