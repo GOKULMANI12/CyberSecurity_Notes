@@ -1,1 +1,15 @@
 ARP--it is used to control tha mac address and ip address
+
+Three stages of testing
+  production environment--live websites/web app
+  staging environment--
+  qa environment
+
+Request(client)--->Response(server)---->Database
+Http method        Response code
+get                   start with
+post                       1xx-Informational
+put                        2xx-
+options                    3xx
+delete                     4xx
+                           5xx     
