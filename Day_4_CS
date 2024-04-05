@@ -7,7 +7,8 @@ tun0 - tunnel0
 wlan0- wireless lan
 eth0 - ethernet lan
 
-Proxy - 
+Proxy - it is used to intermeditae between the client and the server
+client <----> proxy <-----> server
 VPN - Encrypt the client and server communication.
 Encryption/Decryption
 VPN act like a tunnel and make our connection encrypted.
