@@ -13,3 +13,9 @@ put                        2xx-success
 options                    3xx-redirection
 delete                     4xx-client error
                            5xx-server side error
+
+http://www.example.com/directory1/directory2/filename.html
+
+web protocol-http/https
+TLD
+domain-example.com
