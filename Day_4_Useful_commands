@@ -53,6 +53,9 @@ service NetworkManager start
 import file on kali
 cat /etc/apt/sources.list
 
+linux default file(html) location
+/var/www/html/
+
 
 
 
