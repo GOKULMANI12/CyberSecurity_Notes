@@ -19,3 +19,9 @@ http://www.example.com/directory1/directory2/filename.html
 web protocol-http/https
 TLD
 domain-example.com
+
+Enumuration
+  username enumuration
+  phonenumber enumuration
+  mailid enumuration
+
