@@ -40,7 +40,8 @@ Intruder:
 - Select the payload position and click add to add position.
 - Go to payloads and paste the multiple password and start attack.
 
-Zap(Zaproxy):
+Zap(Zaproxy): to check vulnerability of the url
+
   
   
   
