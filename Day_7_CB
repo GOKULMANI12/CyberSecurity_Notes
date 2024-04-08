@@ -1,1 +1,5 @@
 path traversal-Directory traversal
+
+web shell-browser
+bind shell-process/service/port
+reverse shell-user interation
