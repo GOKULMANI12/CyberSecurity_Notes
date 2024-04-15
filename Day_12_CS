@@ -20,3 +20,16 @@ NIST CyberSecurity Framework (National Institute of Standards and Technology)
 - Detect 
 - Response
 - Recover
+
+Intrution - Security event (prevent false-positive)
+Intrution Prevention System
+
+Antivirus
+Signature based - hash
+Jurisdic based - make changes in c drive
+
+Intrution Detection System(IDS) : 
+Host Based Intrution Detection System
+Network Based Intrution Detection System
+
+End Point Detection - antivirus securities
