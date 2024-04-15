@@ -5,6 +5,14 @@ Cisco wsa(secure web appliances)
   authentication mecahanism
   multiple deployment modes
 
+SSO - Single Sign On
+Single sign-on (SSO) is a session and user authentication service that permits a user to use one set of login credentials.
+-- for example, a username and password -- to access multiple applications. 
+SSO is used by organizations of all sizes and individuals to ease the management of multiple credentials.
+
+FrameWork - Set of tools or Software
+Ex: VS code, PyCharm
+
 cloud service models
   saas(Software as a service )
   paas(Platform as a service )
