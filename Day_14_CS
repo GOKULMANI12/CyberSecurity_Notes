@@ -1,0 +1,32 @@
+
+Cloud :
+- Public Cloud
+- Private Cloud
+- Hybrid Cloud
+- Community Cloud
+
+Providers:
+AWS
+Azure
+Google Cloud
+Digital Ocean - popuraling in recent days
+
+Cloud Security Challenges:
+- Data Breaches : Unauthorized access leading to sensitive data exposure and security breaches.
+- Data Loss : Unintensional or Malicious Deletion or Corruption of data.
+- Compliance Concerns : Adhering to industry and government regulation.
+- Insider Threats : Security posed by employees.
+
+DAC - Discretionary access control
+RBAC - Role Based Access Control
+MAC - Mandatory Access Control
+
+
+SOP - Standard Operating Procedure
+- Identify alerts with in 30 minutes
+SOAR
+SIEM
+EDR
+HDR
+
+MITRE ATT&CK Framework
