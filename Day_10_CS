@@ -7,7 +7,7 @@ create directory and touch file target and store the output.
 
 NSE - nmap Scripting Engine
 - to scan prebuild vulnerability.
-
+  
 verbosity  --> -v 
       
 - sudo netdiscover 172.1.42.44/16
